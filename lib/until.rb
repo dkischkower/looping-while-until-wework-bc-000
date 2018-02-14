@@ -4,7 +4,7 @@ def using_until
         looping_string = ""
         until levitation_force == 10 
           levitation_force+=1
-          puts "test"
+          puts "Wingardium Leviosa"
         end
 end
 
