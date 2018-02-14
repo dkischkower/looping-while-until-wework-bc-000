@@ -6,5 +6,6 @@ def using_until
           levitation_force+=1
           looping_string += "Wingardium Leviosa\n"
         end
+        return looping_string
 end
 
